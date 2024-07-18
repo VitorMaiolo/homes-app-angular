@@ -90,15 +90,6 @@ export class ImovelService {
               "chave":"Piscina",
               "valor":"sim"
           },
-          {
-              "chave":"Quintal",
-              "valor":"Muito grande"
-          },
-          {
-              "chave":"Árvores",
-              "valor":"Frutiferas"
-          }
-
       ],
       "aluguel": []
   },
