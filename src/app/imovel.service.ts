@@ -29,6 +29,16 @@ export class ImovelService {
               "chave":"Piscina",
               "valor":"sim"
           }
+      ],
+      "aluguel": [
+        {
+            "chave": "Aluguel Mensal",
+            "valor": 4500.00
+        },
+        {
+            "chave": "Aluguel Anual",
+            "valor": 50000.00
+        }
       ]
   },
 
@@ -47,6 +57,16 @@ export class ImovelService {
               "chave":"Banheiro",
               "valor": 1
           }  
+      ],
+      "aluguel": [
+        {
+            "chave": "Aluguel Mensal",
+            "valor": 1800.00
+        },
+        {
+            "chave": "Aluguel Anual",
+            "valor": 3000.00
+        }
       ]
 
   },
@@ -79,7 +99,8 @@ export class ImovelService {
               "valor":"Frutiferas"
           }
 
-      ]
+      ],
+      "aluguel": []
   },
 
   {
@@ -92,7 +113,8 @@ export class ImovelService {
       "tipo":"casa",
       "latitude": "-22.5770379",
       "longitude": "-47.927497",
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel": []
   },
 
   {
@@ -105,7 +127,8 @@ export class ImovelService {
       "tipo":"casa",
       "latitude": "-22.7964492",
       "longitude": "-47.2957863",
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel": []
   },
 
 
@@ -119,7 +142,8 @@ export class ImovelService {
       "tipo":"casa",
       "latitude": "-22.7139054",
       "longitude": "-47.6656525",
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel": []
   },
 
   {
@@ -132,7 +156,8 @@ export class ImovelService {
       "tipo":"casa",
       "latitude": "-23.0987878",
       "longitude": "-47.0075033",
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel": []
   },
 
   {
@@ -145,7 +170,8 @@ export class ImovelService {
       "tipo":"casa",
       "latitude": "-22.8304558",
       "longitude": "-47.2675766",
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel": []
   },
   {
       "id": 9,
@@ -157,7 +183,8 @@ export class ImovelService {
       "tipo":"apartamento",
       "latitude": "-22.3848445",
       "longitude": "-47.5469755",
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel": []
   },
 
   {
@@ -170,7 +197,8 @@ export class ImovelService {
       "tipo":"casa",
       "latitude": "-22.8446977",
       "longitude": "-47.6797359",
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel": []
   },
 
 ] 
