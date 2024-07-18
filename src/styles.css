@@ -25,3 +25,8 @@ button.primary {
     border-radius: 8px;
     cursor: pointer;
 }
+
+.alinha {
+    margin-left: 10px;
+    cursor: pointer;
+  }
