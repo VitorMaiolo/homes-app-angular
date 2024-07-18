@@ -25,4 +25,10 @@ abrirPaginaAluguel() {
   const url = `/detalhes/${this.imovel?.id}/aluguel`
   this.rt.navigate([url])
 }
+
+abrirPaginaFinaciamento() {
+  const url = `/detalhes/${this.imovel?.id}/financiamento`
+  this.rt.navigate([url])
+}
+
 }
